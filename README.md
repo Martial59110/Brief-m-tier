@@ -38,3 +38,5 @@ Laetitia est motivée par les projets qui nécessitent **une création de zéro 
 ## Gestion de la Pression et Crises en Production
 Elle explique que la **gestion de la pression** est inhérente à la fonction DevOps, particulièrement en période de déploiements majeurs. Elle décrit une approche de gestion de crise collaborative, où chaque membre de l'équipe contribue à identifier et à résoudre les problèmes. Cependant, elle a connu des situations de crise où la pression individuelle était mal gérée, rappelant l'importance de la gestion collective et d’une culture de soutien.
 
+## Compétences Clés en DevOps
+Selon Laetitia, la **curiosité** et l’**organisation** sont deux qualités essentielles pour réussir dans le DevOps. La rapidité des évolutions technologiques oblige les professionnels à rester informés et à être capables de jongler avec plusieurs projets à la fois. Laetitia met un point d’honneur à explorer régulièrement les innovations et à organiser son travail en conséquence.
