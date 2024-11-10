@@ -1,6 +1,6 @@
 # Retranscription de l'entretien
 
-#### Entretien réalisé avec Madame Leatitia Branchy : développeuse DevOps
+#### Entretien réalisé avec Madame Leatitia Diverchy : développeuse DevOps
 
 **_Présentations..._**
 
