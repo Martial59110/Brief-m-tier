@@ -60,3 +60,6 @@ Laetitia anticipe une évolution du DevOps vers une intégration accrue de la **
 
 ## Évolution de Carrière et Satisfaction
 Bien que le changement fréquent d'entreprise soit souvent conseillé pour améliorer la rémunération, Laetitia préfère rester dans sa société actuelle où elle trouve un bon équilibre entre sa carrière et sa sécurité d'emploi. Elle apprécie également de pouvoir s’investir dans des projets de mécénat, un aspect qu’elle ne souhaite pas sacrifier pour des gains purement financiers.
+
+## Salaire et Perspectives
+Elle a commencé avec un salaire net d’environ **2000 € par mois** et atteint aujourd’hui un revenu d’environ **2500 € net mensuel**, avec un bonus trimestriel pouvant ajouter **3000 €** supplémentaires. Elle est satisfaite de son évolution, même si elle sait que d'autres profils similaires perçoivent des rémunérations plus élevées.
