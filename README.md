@@ -34,3 +34,7 @@ Bien que Laetitia reconnaisse l'importance des diplômes dans les processus de r
 
 ## Types de Projets et Environnement de Travail
 Laetitia est motivée par les projets qui nécessitent **une création de zéro ou une refonte complète de systèmes** existants, notamment ceux impliquant une transition vers des environnements cloud. Elle a cependant rencontré des environnements de travail où des préjugés liés à son parcours et son genre ont rendu les expériences difficiles, soulignant l'impact de la culture d'équipe sur la satisfaction professionnelle.
+
+## Gestion de la Pression et Crises en Production
+Elle explique que la **gestion de la pression** est inhérente à la fonction DevOps, particulièrement en période de déploiements majeurs. Elle décrit une approche de gestion de crise collaborative, où chaque membre de l'équipe contribue à identifier et à résoudre les problèmes. Cependant, elle a connu des situations de crise où la pression individuelle était mal gérée, rappelant l'importance de la gestion collective et d’une culture de soutien.
+
