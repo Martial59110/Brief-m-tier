@@ -32,3 +32,5 @@ Elle découvre le DevOps en cherchant des informations pour mettre en place un d
 ## Importance du Diplôme
 Bien que Laetitia reconnaisse l'importance des diplômes dans les processus de recrutement en France, elle estime que la **passion et la capacité à apprendre** sont déterminantes dans le succès en DevOps. Elle valorise davantage l'expérience pratique et l’engagement personnel, qui peuvent compenser un diplôme supérieur, surtout pour des profils en reconversion ou autodidactes.
 
+## Types de Projets et Environnement de Travail
+Laetitia est motivée par les projets qui nécessitent **une création de zéro ou une refonte complète de systèmes** existants, notamment ceux impliquant une transition vers des environnements cloud. Elle a cependant rencontré des environnements de travail où des préjugés liés à son parcours et son genre ont rendu les expériences difficiles, soulignant l'impact de la culture d'équipe sur la satisfaction professionnelle.
