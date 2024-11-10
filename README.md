@@ -28,3 +28,7 @@ Pour Laetitia, le DevOps est avant tout une **philosophie** qui privilégie l’
 
 ## Parcours vers le DevOps
 Elle découvre le DevOps en cherchant des informations pour mettre en place un dépôt de code dans sa première entreprise. Fascinée par des technologies telles que **Docker** et **Kubernetes**, encore émergentes à l’époque, elle s’oriente vers le DevOps et choisit d'y rester en raison de son intérêt pour ces outils et leur potentiel.
+
+## Importance du Diplôme
+Bien que Laetitia reconnaisse l'importance des diplômes dans les processus de recrutement en France, elle estime que la **passion et la capacité à apprendre** sont déterminantes dans le succès en DevOps. Elle valorise davantage l'expérience pratique et l’engagement personnel, qui peuvent compenser un diplôme supérieur, surtout pour des profils en reconversion ou autodidactes.
+
