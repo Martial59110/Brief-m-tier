@@ -20,3 +20,5 @@
 
 ---
 
+## Introduction
+Laetitia Branchy est une développeuse DevOps ayant suivi un parcours de reconversion, avec une formation initiale en physique théorique avant de se lancer dans le secteur informatique. Depuis environ sept ans, elle travaille dans ce domaine, en se concentrant sur les technologies d'automatisation et de déploiement cloud, et en apportant une expertise DevOps axée sur l'optimisation des flux de travail et la collaboration.
