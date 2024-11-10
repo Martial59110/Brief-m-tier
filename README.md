@@ -43,3 +43,6 @@ Selon Laetitia, la **curiosité** et l’**organisation** sont deux qualités es
 
 ## Veille Technologique et Formation Continue
 Pour se tenir informée, elle consacre du temps personnel à la **veille technologique** en utilisant des ressources comme **Medium** et **daily.dev**, ainsi qu’en participant à des conférences comme **DevFest** et **Code Nord**. Cette démarche de formation continue lui permet de rester à jour dans un domaine en constante évolution.
+
+## Utilisation de l'IA et des Outils
+Pour ses recherches, Laetitia continue de s’appuyer principalement sur Google, mais elle est consciente de l'émergence des outils d'intelligence artificielle, tels que **ChatGPT**, utilisés par certains de ses collègues. Concernant la gestion des versions, elle adapte les pratiques de **Gitflow** aux spécificités de chaque équipe, avec une préférence pour la flexibilité plutôt que pour des règles rigides.
