@@ -17,6 +17,7 @@
 14. [Conseils pour les Futurs Développeurs DevOps](#conseils-pour-les-futurs-développeurs-devops)
 15. [Organisation d'une Journée Type](#organisation-dune-journée-type)
 16. [Conclusion](#conclusion)
+17. [Retranscription 📄](doc/retranscription.md)
 
 ---
 
