@@ -57,3 +57,6 @@ Parmi les technologies et outils utilisés par Laetitia au quotidien :
 
 ## Évolution du DevOps : vers DevSecOps
 Laetitia anticipe une évolution du DevOps vers une intégration accrue de la **sécurité**, notamment avec la pratique **DevSecOps**. Elle observe déjà un mouvement en ce sens, avec une sécurité intégrée au cœur des flux de travail DevOps, rendant les pratiques de déploiement plus robustes.
+
+## Évolution de Carrière et Satisfaction
+Bien que le changement fréquent d'entreprise soit souvent conseillé pour améliorer la rémunération, Laetitia préfère rester dans sa société actuelle où elle trouve un bon équilibre entre sa carrière et sa sécurité d'emploi. Elle apprécie également de pouvoir s’investir dans des projets de mécénat, un aspect qu’elle ne souhaite pas sacrifier pour des gains purement financiers.
