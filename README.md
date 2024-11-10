@@ -40,3 +40,6 @@ Elle explique que la **gestion de la pression** est inhérente à la fonction De
 
 ## Compétences Clés en DevOps
 Selon Laetitia, la **curiosité** et l’**organisation** sont deux qualités essentielles pour réussir dans le DevOps. La rapidité des évolutions technologiques oblige les professionnels à rester informés et à être capables de jongler avec plusieurs projets à la fois. Laetitia met un point d’honneur à explorer régulièrement les innovations et à organiser son travail en conséquence.
+
+## Veille Technologique et Formation Continue
+Pour se tenir informée, elle consacre du temps personnel à la **veille technologique** en utilisant des ressources comme **Medium** et **daily.dev**, ainsi qu’en participant à des conférences comme **DevFest** et **Code Nord**. Cette démarche de formation continue lui permet de rester à jour dans un domaine en constante évolution.
