@@ -67,3 +67,11 @@ Elle a commencé avec un salaire net d’environ **2000 € par mois** et attein
 ## Conseils pour les Futurs Développeurs DevOps
 Laetitia conseille de **rester ouvert d’esprit** et de ne pas abandonner face aux premières difficultés. Elle encourage aussi à explorer un maximum de technologies pour élargir sa polyvalence, tout en se spécialisant dans un domaine. Cela permet de mieux s’adapter aux environnements de travail variés et aux outils multiples rencontrés en mission.
 
+## Organisation d'une Journée Type
+Une journée de travail typique pour Laetitia comprend des activités variées : 
+- Mise en place et gestion de bases de données sur le cloud.
+- Disponibilité pour répondre aux questions des équipes de développement.
+- Flexibilité dans la gestion de son emploi du temps, notamment en raison de contraintes personnelles.
+- Participation aux réunions pour assurer la communication avec les équipes et anticiper les besoins de développement.
+
+Elle apprécie la liberté de s'organiser selon ses besoins, avec une répartition équilibrée entre développement et support aux équipes.
