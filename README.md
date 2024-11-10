@@ -54,3 +54,6 @@ Parmi les technologies et outils utilisés par Laetitia au quotidien :
 - **SonarQube** pour la vérification de la qualité et la sécurité du code.
 - **Docker** pour la virtualisation des environnements.
 - **GitHub** et **GitLab** pour la gestion de version, selon les projets.
+
+## Évolution du DevOps : vers DevSecOps
+Laetitia anticipe une évolution du DevOps vers une intégration accrue de la **sécurité**, notamment avec la pratique **DevSecOps**. Elle observe déjà un mouvement en ce sens, avec une sécurité intégrée au cœur des flux de travail DevOps, rendant les pratiques de déploiement plus robustes.
