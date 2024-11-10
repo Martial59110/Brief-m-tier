@@ -63,3 +63,7 @@ Bien que le changement fréquent d'entreprise soit souvent conseillé pour amél
 
 ## Salaire et Perspectives
 Elle a commencé avec un salaire net d’environ **2000 € par mois** et atteint aujourd’hui un revenu d’environ **2500 € net mensuel**, avec un bonus trimestriel pouvant ajouter **3000 €** supplémentaires. Elle est satisfaite de son évolution, même si elle sait que d'autres profils similaires perçoivent des rémunérations plus élevées.
+
+## Conseils pour les Futurs Développeurs DevOps
+Laetitia conseille de **rester ouvert d’esprit** et de ne pas abandonner face aux premières difficultés. Elle encourage aussi à explorer un maximum de technologies pour élargir sa polyvalence, tout en se spécialisant dans un domaine. Cela permet de mieux s’adapter aux environnements de travail variés et aux outils multiples rencontrés en mission.
+
