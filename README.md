@@ -22,3 +22,7 @@
 
 ## Introduction
 Laetitia Branchy est une développeuse DevOps ayant suivi un parcours de reconversion, avec une formation initiale en physique théorique avant de se lancer dans le secteur informatique. Depuis environ sept ans, elle travaille dans ce domaine, en se concentrant sur les technologies d'automatisation et de déploiement cloud, et en apportant une expertise DevOps axée sur l'optimisation des flux de travail et la collaboration.
+
+## Philosophie du DevOps
+Pour Laetitia, le DevOps est avant tout une **philosophie** qui privilégie l’automatisation des tâches et la coopération entre développeurs et opérations. Elle le considère comme un **moyen de réduire les délais de déploiement** en production tout en garantissant la sécurité et la stabilité. L'accent est mis sur l'**automatisation** de bout en bout, permettant de réagir rapidement aux problèmes et de minimiser les erreurs en production.
+
