@@ -75,3 +75,6 @@ Une journée de travail typique pour Laetitia comprend des activités variées :
 - Participation aux réunions pour assurer la communication avec les équipes et anticiper les besoins de développement.
 
 Elle apprécie la liberté de s'organiser selon ses besoins, avec une répartition équilibrée entre développement et support aux équipes.
+
+## Conclusion
+Laetitia Branchy représente le profil d’une développeuse DevOps passionnée et adaptable, alliant curiosité et organisation pour rester performante dans un secteur en constante évolution. Son expérience illustre l’importance de l’ouverture d’esprit et de la formation continue, ainsi qu’une volonté d’explorer des technologies variées pour apporter des solutions innovantes aux équipes de développement.
