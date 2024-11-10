@@ -46,3 +46,11 @@ Pour se tenir informée, elle consacre du temps personnel à la **veille technol
 
 ## Utilisation de l'IA et des Outils
 Pour ses recherches, Laetitia continue de s’appuyer principalement sur Google, mais elle est consciente de l'émergence des outils d'intelligence artificielle, tels que **ChatGPT**, utilisés par certains de ses collègues. Concernant la gestion des versions, elle adapte les pratiques de **Gitflow** aux spécificités de chaque équipe, avec une préférence pour la flexibilité plutôt que pour des règles rigides.
+
+## Technologies Utilisées
+Parmi les technologies et outils utilisés par Laetitia au quotidien :
+- **Yaml** pour la configuration des fichiers.
+- **Pre-commit** pour prévenir les erreurs d'inattention et assurer la lisibilité du code.
+- **SonarQube** pour la vérification de la qualité et la sécurité du code.
+- **Docker** pour la virtualisation des environnements.
+- **GitHub** et **GitLab** pour la gestion de version, selon les projets.
