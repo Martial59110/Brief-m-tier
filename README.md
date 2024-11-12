@@ -79,3 +79,4 @@ Elle apprécie la liberté de s'organiser selon ses besoins, avec une répartiti
 
 ## Conclusion
 Laetitia Diverchy représente le profil d’une développeuse DevOps passionnée et adaptable, alliant curiosité et organisation pour rester performante dans un secteur en constante évolution. Son expérience illustre l’importance de l’ouverture d’esprit et de la formation continue, ainsi qu’une volonté d’explorer des technologies variées pour apporter des solutions innovantes aux équipes de développement.
+
