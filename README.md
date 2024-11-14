@@ -70,6 +70,7 @@ Laetitia conseille de **rester ouvert d’esprit** et de ne pas abandonner face 
 
 ## Organisation d'une Journée Type
 Une journée de travail typique pour Laetitia comprend des activités variées : 
+
 - Mise en place et gestion de bases de données sur le cloud.
 - Disponibilité pour répondre aux questions des équipes de développement.
 - Flexibilité dans la gestion de son emploi du temps, notamment en raison de contraintes personnelles.
